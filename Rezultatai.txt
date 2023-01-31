@@ -1,9 +1,6 @@
 Dalyviai
-Petras A. Petraitis 105
 Rima Liepa          45
 Laimikis
-Lydeka              651
 Ungurys             456
-Veidrodinis karpis  250
-Karosas             0
-Kuoja               0
+Lydeka              0
+Veidrodinis karpis  0
